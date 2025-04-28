@@ -116,6 +116,10 @@ body {
     border-radius: 20px 20px 0 0;
     cursor: pointer;
 }
+#btn_wrap ul li:hover{
+    background-color: #2A3D5B !important;
+    color: #fff;
+}
 
 .select {
     background-color: #2A3D5B !important;
