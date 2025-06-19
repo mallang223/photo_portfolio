@@ -133,6 +133,7 @@ body {
 }
 
 .introduce_upper {
+    height : 650px;
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
